@@ -1,0 +1,26 @@
+body {
+	background: #FFF;
+	font-size: 50px;
+	font-family: helvetica;
+}
+
+#btnKikko {
+	background: blue;
+	width: 100%;
+	height: 50%;
+}
+
+#btnShaq {
+	background: magenta;
+	width: 100%;
+	height: 50%;
+}
+
+#imageBox {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	margin-left: -80px;
+	margin-top: -90px;
+	display: none;	
+}
